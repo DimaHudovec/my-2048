@@ -5,6 +5,11 @@ import java.awt.Graphics2D;
 import java.awt.font.TextLayout;
 import java.awt.geom.Rectangle2D;
 
+/**
+ * Класс рисования плиток с числами
+ * @author hudov
+ *
+ */
 public class DrawUtils {
 
 	private DrawUtils(){}
